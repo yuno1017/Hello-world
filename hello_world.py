@@ -1,4 +1,4 @@
 print("hello world!!")
-for i in range(1, 10):
+for i in range(1, 15):
     print(i)
-print("Yunho!")
+print("Yunho is a good student!")
